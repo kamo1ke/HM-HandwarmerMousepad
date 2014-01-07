@@ -3,7 +3,7 @@
 This document is made by [gitfab](http://gitfab.org)
 ---
 #コンセプト
-![11.JPG](https://raw.github.com/kamo1ke/HandWarmer-MousePad/master/)
+<img src="http://web.sfc.keio.ac.jp/~s10878nm/11.JPG" alt="11.JPG">
 寒い冬では手が冷えてしまい、ネットサーフィンなど、パソコンライフも快適に送れません。
 特に私の家は壁がコンクリートのため室内でも大変寒く、毎年この冬の時期は困っていました。その思いがあって、このマウスパッドを開発しました。
 このマウスパッドはトンネル状になっており、マウスを中に入れて使用します。すると手がマウスパッドに覆われます。トンネルの天井部にはファーがあり、肌触りがよく手との密着度も高い設計ですので暖かいです。メインの素材が布で軽く、二つに折り畳むことができるので、どこでも持ち歩くことができます。マウスパッドの重量は軽いですが、底面の裏側に滑り止めのシートが貼ってあるため、マウスを動かす際、マウスパッドまで動くということはありません。また電気を必要としないので電気代もかからず経済的です。そのため場所を選ばす使用することができます。
@@ -12,20 +12,18 @@ This document is made by [gitfab](http://gitfab.org)
 ---
 #設計、実装
 材料は、26×24cmフェルト(床部) 、26×26cmフェルト(天井部) 、26×24cm ファー(天井部)、糸、滑り止めシートの５つです。必要な道具は、布きりハサミと縫い針です。下の写真はフェルト２枚とファーです。
-<img src="http://web.sfc.keio.ac.jp/~s10878nm/10.JPG">
+<img src="http://web.sfc.keio.ac.jp/~s10878nm/sekkei1-01.png" alt="sekkei1-01.png">
 作成する手順です。まず下の図のようにフェルトとファーの天井部同士を４辺で縫い合わせます。図の赤い線上を縫います。横の両端を１㎝ずつ余らせます。
-![sekkei1-01.png](https://raw.github.com/kamo1ke/HandWarmer-MousePad/master/)
+<img src="http://web.sfc.keio.ac.jp/~s10878nm/sekkei2-01.png" alt="sekkei2-01.png">
 次に縫い合わせた天井部とフェルトの床部を下図のように縫い合わせます。赤い線上の横２辺を縫い合わせます。
 ![sekkei2-01.png](https://raw.github.com/kamo1ke/HandWarmer-MousePad/master/)
 最後に下の写真のように、滑り止めシートを床部の裏側に貼ります。
-![13.JPG](https://raw.github.com/kamo1ke/HandWarmer-MousePad/master/)
+<img src="http://web.sfc.keio.ac.jp/~s10878nm/13.JPG" alt="13.JPG">
 これで完成です！マウスを下の写真のように入れます。
-
-![12.JPG](https://raw.github.com/kamo1ke/HandWarmer-MousePad/master/)
+<img src="http://web.sfc.keio.ac.jp/~s10878nm/12.JPG" alt="12.JPG">
 ---
 #使用した結果
-
-![14.JPG](https://raw.github.com/kamo1ke/HandWarmer-MousePad/master/)
+<img src="http://web.sfc.keio.ac.jp/~s10878nm/14.JPG" alt="14.JPG">
 友人に使用してもらい感想を聞きました。「マウスを使用している手が暖かい。マウスパッドのサイズも十分あり、マウスポインタをストレスなく動かせる。滑り止めシートのおかげでマウスパッドが動かないのがいい。」という感想をいただきました。
 ---
 #ビジョン(未来)
@@ -33,7 +31,7 @@ This document is made by [gitfab](http://gitfab.org)
 持ち運びできることが特色の１つですので、サイズを調整し、素材を緩衝できるものを選択することで、ノートパソコンのケースに入れるのに適したものにすれば、実用性が増すと考えられます。
 ---
 #関連プロダクト
-サンコー「USBあったか布団マウスパッド」 　参考資料　http://kaden.watch.impress.co.jp/docs/column_review/yajreview/20130109_580877.html　
+<a href="http://kaden.watch.impress.co.jp/docs/column_review/yajreview/20130109_580877.html" target="_blank">サンコー「USBあったか布団マウスパッド」</a><br />
 素材は、天井部は布ですべりやすいナイロン、床部は固めの発泡ゴムを使用し、マウス操作をスムーズに行え、またマウスパッド自体がすべらないように設計されています。天井部と床部の固定の仕方はマジックテープによるもので、それにより各自の手の大きさに合わせて固定でき、防寒性が増すようです。また手首の下に小さな枕を設置することができ、手首置きにいいなと思いましたが、キーボードを打つために手を抜く際に引っかかって邪魔になるそうです。
 天井部の布だけで十分暖かいみたいですが、その中に42度に設定された添付のヒーターを入れることができ、電源はパソコンのUSBのコネクタから持ってくることが可能です。眠くなるほど暖かいみたいです。
 今回作成したマウスパッドと比較して大きな違いは、枕とヒーターを入れられることです。また床部が発泡ゴムなので折り畳むことはできないと考えられるので、持ち運ぶことはあまり想定していないように推測しました。
